@@ -116,7 +116,7 @@ class PlaceSymbolBodyState extends State<PlaceSymbolBody> {
               onMapCreated: _onMapCreated,
               initialCameraPosition: const CameraPosition(
                 target: LatLng(-33.852, 151.211),
-                zoom: 11.0,
+                zoom: 8.0,
               ),
             ),
           ),
